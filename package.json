@@ -11,10 +11,14 @@
     "url": "git+ssh://git@gitlab.com/devrchancay/area51.git"
   },
   "keywords": [
-    "NODEJS",
-    "Expressjs"
+    "NodeJs",
+    "ExpressJs"
   ],
-  "author": "Ramón Chancay <http://noders.ec>",
+  "author": "Ramón Chancay <devrchancay@codedebug.co>",
+  "contributors": [{
+      "name": "Faber Vergara",
+      "email": "faber@codedebug.co"
+  }]
   "license": "MIT",
   "bugs": {
     "url": "https://gitlab.com/devrchancay/area51/issues"
